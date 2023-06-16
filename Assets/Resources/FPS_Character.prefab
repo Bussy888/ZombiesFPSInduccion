@@ -6133,7 +6133,7 @@ MonoBehaviour:
   nameWeapon: Desert Eagle
   playerCam: {fileID: 7227287290309725987}
   range: 100
-  damage: 50
+  damage: 100
   playerAnimator: {fileID: 7104444615477207979}
   flashParticleSystem: {fileID: 5435304175624945141}
   bloodParticleSystem: {fileID: 2047935742235312324, guid: 528306ff4e272974d9fba8d337b23fcd, type: 3}
@@ -6151,7 +6151,7 @@ MonoBehaviour:
   currentAmmoText: {fileID: 7504124072243639638}
   reserveAmmoText: {fileID: 7504124072036127067}
   currentWeaponText: {fileID: 7504124072495860967}
-  fireRate: 1.2
+  fireRate: 0.5
   fireRateTimer: 0
   type: 0
   weaponType: IsPistol
